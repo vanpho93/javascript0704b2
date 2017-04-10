@@ -14,8 +14,11 @@ while (soMua != KET_QUA) {
     console.log('Lan thu ' + soLan + ': ' + soMua);
 }
 
+// for( ; soMua != KET_QUA; console.log('AAAAAAAA') ) {
+//     soLan++;
+//     soMua = Math.ceil(Math.random() * 999999);
+//     console.log('Lan thu ' + soLan + ': ' + soMua);
+// }
+
 console.log('SAU ' + soLan + ' THI TRUNG GIAI DAC BIET');
 
-// for( ;; ) {
-//     console.log('AA');
-// }
